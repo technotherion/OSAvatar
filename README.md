@@ -3,8 +3,8 @@ Free to use mesh avatars for OpenSim for humans and furries of all avatar ages a
 
 Attribution-NonCommercial: CC BY-NC (Please correct me if this is not the right license.)
 
-#CONDITIONS OF USE
-#You may not resell OSAvatar but you may share it. 
+##CONDITIONS OF USE
+##You may not resell OSAvatar but you may share it. 
 For example, you may:
   - Put a freebie box in your grid/sim for anyone to grab OSAvatar
   - Give OSAvatar to a friend or a stranger
