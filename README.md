@@ -3,8 +3,10 @@ Free to use mesh avatars for OpenSim for humans and furries of all avatar ages a
 
 Attribution-NonCommercial: CC BY-NC (Please correct me if this is not the right license.)
 
-##CONDITIONS OF USE
-##You may not resell OSAvatar but you may share it. 
+CONDITIONS OF USE
+
+You may not resell OSAvatar but you may share it. 
+
 For example, you may:
   - Put a freebie box in your grid/sim for anyone to grab OSAvatar
   - Give OSAvatar to a friend or a stranger
@@ -17,7 +19,7 @@ For example, you may:
    - Redistribute or sell OSAvatar on Second Life. OSAvatar is only allowed for personal use on Second Life. Each user must import their own copy of OSAvatar for personal use.
    - Redistribute or sell parts/clothing/modifications of OSAvatar on Second LIfe. Each user must import their own parts/clothing/modifications of OSAvatar to use for personal use. 
    
-#You may modify OSAvatar. What you do with your parts/clothing/modifications are up to you.
+You may modify OSAvatar. What you do with your parts/clothing/modifications are up to you.
 
 Parts can be body parts, such as digitigrade legs for furry avatars, paws, ears, hair, alternate hands or feet, etc.
 Clothing can be any clothes or accessories that are made to fit OSAvatar.
